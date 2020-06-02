@@ -25,27 +25,35 @@ Data Engineering:
 
 Data Analysis:
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+
 ![01_SQL](reference/01_SQL_query.png)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
+
 ![02_SQL](reference/02_SQL_query.png)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+
 ![03_SQL](reference/03_SQL_query.png)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
+
 ![04_SQL](reference/04_SQL_query.png)
 
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+
 ![05_SQL](reference/05_SQL_query.png)
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
+
 ![06_SQL](reference/06_SQL_query.png)
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
 ![07_SQL](reference/07_SQL_query.png)
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
 ![08_SQL](reference/08_SQL_query.png)
 
 Visualization:
